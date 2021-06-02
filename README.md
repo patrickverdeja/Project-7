@@ -1,6 +1,6 @@
 # Lab 1
 
-## Code:
+## [Code:](https://github.com/patrickverdeja/cit281-lab1/blob/main/lab-1-code)
 
 
 
